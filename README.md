@@ -1,6 +1,6 @@
 # Carpark Availability App
 
-## Starting the App from IDE
+##Starting the App from IDE
 
 1. npm install
 2. npm run netlify dev
